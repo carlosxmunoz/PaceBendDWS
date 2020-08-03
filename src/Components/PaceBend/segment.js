@@ -137,7 +137,7 @@ class Maps extends Component {
             <div>
                 <Map
                     style={{ height: "900px" }}
-                    center={[30.440071, -98.025306]}
+                    center={[30.400071, -98.025306]}
                     zoom={this.state.zoom}>
                     <TileLayer
                         attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
