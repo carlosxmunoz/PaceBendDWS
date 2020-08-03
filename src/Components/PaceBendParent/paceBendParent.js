@@ -1,11 +1,4 @@
 import React from "react";
-import { Toolbar } from "@material-ui/core";
-import { Redirect } from "react-router-dom";
-import axios from 'axios';
-import Cookies from 'universal-cookie';
-import SearchBar from 'material-ui-search-bar'
-import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import { thisExpression } from "@babel/types";
 import Maps from '../PaceBend/segment'
 
 

@@ -1,10 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {Route, BrowserRouter as Router} from "react-router-dom";
 import './index.css';
-import searchHeader from './Components/searchHeader/searchHeader';
 import PaceBendParent from './Components/PaceBendParent/paceBendParent';
-import App from './App';
 
 ReactDOM.render(<PaceBendParent />, document.getElementById('root'));
 // import components I want to use
