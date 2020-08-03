@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PaceBendDWS/static/css/main.47a9c96c.chunk.css",
+    "main.js": "/PaceBendDWS/static/js/main.0b6d39c5.chunk.js",
+    "main.js.map": "/PaceBendDWS/static/js/main.0b6d39c5.chunk.js.map",
+    "runtime~main.js": "/PaceBendDWS/static/js/runtime~main.d7c2db77.js",
+    "runtime~main.js.map": "/PaceBendDWS/static/js/runtime~main.d7c2db77.js.map",
+    "static/js/2.7d21326f.chunk.js": "/PaceBendDWS/static/js/2.7d21326f.chunk.js",
+    "static/js/2.7d21326f.chunk.js.map": "/PaceBendDWS/static/js/2.7d21326f.chunk.js.map",
+    "index.html": "/PaceBendDWS/index.html",
+    "precache-manifest.02fabc6fe1e5e439428b5967d5b2b48c.js": "/PaceBendDWS/precache-manifest.02fabc6fe1e5e439428b5967d5b2b48c.js",
+    "service-worker.js": "/PaceBendDWS/service-worker.js",
+    "static/css/main.47a9c96c.chunk.css.map": "/PaceBendDWS/static/css/main.47a9c96c.chunk.css.map"
+  }
+}
