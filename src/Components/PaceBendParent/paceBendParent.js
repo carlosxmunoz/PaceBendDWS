@@ -12,21 +12,8 @@ import Maps from '../PaceBend/segment'
 
 
 
-class paceBendParent extends React.Component {
-    openUrl(url) {
-        if (
-            url.toLocaleLowerCase().includes("http") ||
-            url.toLocaleLowerCase().includes("ftp")
-        ) {
-            window.open(url, "_blank");
-        } else {
-            window.open("//" + url, "_blank");
-        }
-    }
+class PaceBendParent extends React.Component {
 
-    search() {
-        window.location.href = "search?q=" + this.state.q;
-    }
 
 
 
@@ -37,8 +24,8 @@ class paceBendParent extends React.Component {
     }
 
     componentDidMount() {
-        const state = this.props.location.state
-        console.log('state', state);
+        // const state = this.props.location.state
+        // console.log('state', state);
 
         // const { id } = this.props.match.params    
         // this.props.location.pathname = '/segments?id=' + state.id
@@ -62,4 +49,4 @@ class paceBendParent extends React.Component {
     }
 }
 
-export default paceBendParent;
+export default PaceBendParent;
