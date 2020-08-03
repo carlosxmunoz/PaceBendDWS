@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PaceBendDWS/static/css/main.86bcdf05.chunk.css",
+    "main.js": "/PaceBendDWS/static/js/main.dc54a9a8.chunk.js",
+    "main.js.map": "/PaceBendDWS/static/js/main.dc54a9a8.chunk.js.map",
+    "runtime~main.js": "/PaceBendDWS/static/js/runtime~main.d7c2db77.js",
+    "runtime~main.js.map": "/PaceBendDWS/static/js/runtime~main.d7c2db77.js.map",
+    "static/js/2.da0fae9c.chunk.js": "/PaceBendDWS/static/js/2.da0fae9c.chunk.js",
+    "static/js/2.da0fae9c.chunk.js.map": "/PaceBendDWS/static/js/2.da0fae9c.chunk.js.map",
+    "index.html": "/PaceBendDWS/index.html",
+    "precache-manifest.905da22bec3b651575c78fb46e325cf5.js": "/PaceBendDWS/precache-manifest.905da22bec3b651575c78fb46e325cf5.js",
+    "service-worker.js": "/PaceBendDWS/service-worker.js",
+    "static/css/main.86bcdf05.chunk.css.map": "/PaceBendDWS/static/css/main.86bcdf05.chunk.css.map",
+    "static/media/jellyfish.svg": "/PaceBendDWS/static/media/jellyfish.c721b23a.svg"
+  }
+}
