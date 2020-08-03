@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PaceBendDWS/precache-manifest.02fabc6fe1e5e439428b5967d5b2b48c.js"
+  "/PaceBendDWS/precache-manifest.60c92fab4cf15f713d04593b28d8a775.js"
 );
 
 self.addEventListener('message', (event) => {
