@@ -125,7 +125,7 @@ class Maps extends Component {
             y_sum += points[i][1];
         }
 
-        
+        console.log('x_sum', x_sum, "y_sum")
         return [(x_sum / (points.length)), (y_sum / (points.length))]
     }
     render() {
@@ -137,7 +137,7 @@ class Maps extends Component {
             <div>
                 <Map
                     style={{ height: "900px" }}
-                    center={[30.400071, -98.025306]}
+                    center={[30.43, -98.025306]}
                     zoom={this.state.zoom}>
                     <TileLayer
                         attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
