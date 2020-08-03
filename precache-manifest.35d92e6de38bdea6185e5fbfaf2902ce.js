@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7ec454ce66ab9c77a5a5fa5eb57636b",
+    "revision": "98f36f46d7678fed039226d3c30e0808",
     "url": "/PaceBendDWS/index.html"
   },
   {
-    "revision": "523e46e5cbdd2e17d653",
+    "revision": "fe921f4d47a6f2f25ff7",
     "url": "/PaceBendDWS/static/css/main.47a9c96c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PaceBendDWS/static/js/2.7d21326f.chunk.js"
   },
   {
-    "revision": "523e46e5cbdd2e17d653",
-    "url": "/PaceBendDWS/static/js/main.978461c3.chunk.js"
+    "revision": "fe921f4d47a6f2f25ff7",
+    "url": "/PaceBendDWS/static/js/main.ed5aa40e.chunk.js"
   },
   {
     "revision": "ca4aa7bd1565ffde1143",
